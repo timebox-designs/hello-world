@@ -1,7 +1,20 @@
 {
-  "main.css": "static/css/main.9a0fe4f1.css",
-  "main.css.map": "static/css/main.9a0fe4f1.css.map",
-  "main.js": "static/js/main.9eb51083.js",
-  "main.js.map": "static/js/main.9eb51083.js.map",
-  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg"
+  "main.css": "static/css/main.f474e4e4.css",
+  "main.css.map": "static/css/main.f474e4e4.css.map",
+  "main.js": "static/js/main.1b980e4b.js",
+  "main.js.map": "static/js/main.1b980e4b.js.map",
+  "static/media/1.jpg": "static/media/1.be3fdd12.jpg",
+  "static/media/2.jpg": "static/media/2.cef825be.jpg",
+  "static/media/3.jpg": "static/media/3.6da024ec.jpg",
+  "static/media/article.jpg": "static/media/article.1dd1bc63.jpg",
+  "static/media/kindle.jpg": "static/media/kindle.e8b161aa.jpg",
+  "static/media/kotex.jpg": "static/media/kotex.89ef7778.jpg",
+  "static/media/masthead.png": "static/media/masthead.9b6d0bdf.png",
+  "static/media/mec.jpg": "static/media/mec.68d5e23b.jpg",
+  "static/media/media-tweet.png": "static/media/media-tweet.c97f0105.png",
+  "static/media/presidents.jpg": "static/media/presidents.0bc323ec.jpg",
+  "static/media/red-shirt.jpg": "static/media/red-shirt.615df557.jpg",
+  "static/media/sarah.png": "static/media/sarah.6245ce27.png",
+  "static/media/slogan.png": "static/media/slogan.e8207848.png",
+  "static/media/tic-tacs.jpg": "static/media/tic-tacs.7df500d3.jpg"
 }
