@@ -1,13 +1,14 @@
 import React, {Component} from 'react';
 import {Navbar, Nav, NavItem} from 'react-bootstrap';
+import {Link} from 'react-router';
 
-class AppNavbar extends Component {
+class MainNavbar extends Component {
     render() {
         return (
             <Navbar inverse collapseOnSelect fixedTop>
                 <Navbar.Header>
                     <Navbar.Brand>
-                        <a href="#">Sarah Campbell</a>
+                        <Link to="/">Sarah Campbell</Link>
                     </Navbar.Brand>
                     <Navbar.Toggle />
                 </Navbar.Header>
@@ -22,4 +23,4 @@ class AppNavbar extends Component {
     }
 }
 
-export default AppNavbar;
+export default MainNavbar;
