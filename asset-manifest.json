@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.f474e4e4.css",
-  "main.css.map": "static/css/main.f474e4e4.css.map",
-  "main.js": "static/js/main.1b980e4b.js",
-  "main.js.map": "static/js/main.1b980e4b.js.map",
+  "main.css": "static/css/main.7aa676cd.css",
+  "main.css.map": "static/css/main.7aa676cd.css.map",
+  "main.js": "static/js/main.390cf60e.js",
+  "main.js.map": "static/js/main.390cf60e.js.map",
   "static/media/1.jpg": "static/media/1.be3fdd12.jpg",
   "static/media/2.jpg": "static/media/2.cef825be.jpg",
   "static/media/3.jpg": "static/media/3.6da024ec.jpg",
@@ -16,5 +16,6 @@
   "static/media/red-shirt.jpg": "static/media/red-shirt.615df557.jpg",
   "static/media/sarah.png": "static/media/sarah.6245ce27.png",
   "static/media/slogan.png": "static/media/slogan.e8207848.png",
+  "static/media/subhead.png": "static/media/subhead.38bef091.png",
   "static/media/tic-tacs.jpg": "static/media/tic-tacs.7df500d3.jpg"
 }
