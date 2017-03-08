@@ -1,0 +1,122 @@
+$font-size-base: 16px;
+$text-color: #222;
+$font-family-sans-serif: "Open Sans", Helvetica, Arial, sans-serif;
+
+@import 'bootstrap-custom';
+
+body {
+  margin-top: 50px;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.purple-hue {
+  background-color: rgb(189, 155, 192);
+}
+
+.blue-hue {
+  background-color: rgb(145, 167, 208);
+}
+
+.green-hue {
+  background-color: rgb(195, 221, 214);
+}
+
+img.blue-hue {
+  border: 10px solid rgb(145, 167, 208);
+}
+
+img.green-hue {
+  border: 10px solid rgb(195, 221, 214);
+}
+
+.font-italic {
+  font-style: italic;
+}
+
+section {
+  margin-bottom: 4rem;
+
+  .lead {
+    margin-bottom: 2.5rem;
+  }
+}
+
+section:last-of-type {
+  margin-bottom: 0;
+}
+
+.color-section {
+  padding: 4rem 0;
+}
+
+.color-section:last-of-type {
+  padding-top: 0;
+}
+
+.masthead {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.subhead {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.container {
+  position: relative;
+}
+
+.thumbnail {
+  border: transparent;
+  padding: 0;
+}
+
+.thumbnail.img-top {
+  img {
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+  }
+}
+
+.puff-piece {
+  margin-top: 24rem;
+  margin-bottom: 0;
+  padding-top: 16rem;
+}
+
+.puff-piece-image {
+  position: absolute;
+  top: -28rem;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+#page-layout {
+  .puff-piece {
+    margin-top: 20rem;
+    padding-top: 5rem;
+  }
+
+  .puff-piece-image {
+    position: absolute;
+    top: -11rem;
+  }
+}
+
+.social-media {
+  a {
+    color: inherit;
+  }
+
+  a:hover {
+    color: #fff;
+  }
+}
+
+.img-margin-bottom {
+  margin-bottom: 4em;
+}

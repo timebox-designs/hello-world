@@ -26,7 +26,7 @@ class TicTacsPage extends Component {
 
                 <Row>
                     <Col md={6} mdPush={6} style={marginBottom}>
-                        <Image src={ticTacs} rounded responsive/>
+                        <Image src={ticTacs} className="img-margin-bottom" rounded responsive/>
                     </Col>
 
                     <Col md={6} mdPull={6}>

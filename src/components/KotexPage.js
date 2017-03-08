@@ -23,7 +23,7 @@ class KotexPage extends Component {
 
                 <Row>
                     <Col md={6} mdPush={6}>
-                        <Image src={kotex} rounded responsive/>
+                        <Image src={kotex} className="img-margin-bottom" rounded responsive/>
                     </Col>
 
                     <Col md={6} mdPull={6}>

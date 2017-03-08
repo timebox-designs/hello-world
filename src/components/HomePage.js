@@ -54,22 +54,22 @@ class HomePage extends Component {
                             </Col>
 
                             <Col md={6} lg={4}>
-                                <Thumbnail className="img-top" src={mec} alt="MEC">
-                                    <h4>MEC</h4>
-                                    <p>
-                                        A nature loving brand inspiring and leading its city dwelling members outdoors.
-                                    </p>
-                                    <Link to="mec">More</Link>
-                                </Thumbnail>
-                            </Col>
-
-                            <Col md={6} lg={4}>
                                 <Thumbnail className="img-top" src={kotex} alt="Kotex">
                                     <h4>U by Kotex</h4>
                                     <p>
                                         A spunky, bold and colourful brand that tells it like it is.
                                     </p>
                                     <Link to="kotex">More</Link>
+                                </Thumbnail>
+                            </Col>
+
+                            <Col md={6} lg={4}>
+                                <Thumbnail className="img-top" src={mec} alt="MEC">
+                                    <h4>MEC</h4>
+                                    <p>
+                                        A nature loving brand inspiring and leading its city dwelling members outdoors.
+                                    </p>
+                                    <Link to="mec">More</Link>
                                 </Thumbnail>
                             </Col>
 

@@ -23,7 +23,7 @@ class KindlePage extends Component {
 
                 <Row>
                     <Col md={6} mdPush={6}>
-                        <Image src={kindle} rounded responsive/>
+                        <Image src={kindle} className="img-margin-bottom" rounded responsive/>
                     </Col>
 
                     <Col md={6} mdPull={6}>

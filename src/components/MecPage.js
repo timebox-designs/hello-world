@@ -23,7 +23,7 @@ class MecPage extends Component {
 
                 <Row>
                     <Col md={6} mdPush={6}>
-                        <Image src={mec} rounded responsive/>
+                        <Image src={mec} className="img-margin-bottom" rounded responsive/>
                     </Col>
 
                     <Col md={6} mdPull={6}>
